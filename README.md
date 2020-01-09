@@ -1,2 +1,2 @@
 # bash
-Trying out bash basics
+### Trying out bash basics
